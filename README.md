@@ -23,7 +23,7 @@ I'm a passionate **B.Tech (6th Semester) student at RK University** 🎓, curren
 
 ## 📫 Connect With Me 🌐
 - **LinkedIn:** [Keval Dhamecha](https://www.linkedin.com/in/keval-dhamecha-81597224b) 🔗
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername) 🐙
-- **Email:** your.email@example.com 📩
+- **GitHub:** [Your GitHub Profile](https://github.com/DhamechaKeval) 🐙
+- **Email:** kdhamecha541@rku.ac.in 📩
 
 ⚡ _Always eager to learn and collaborate on exciting projects!_ 🚀
